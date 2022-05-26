@@ -18,4 +18,4 @@
     - We use linear regression, support vector regression, and random forest regression to predict house prices in King County USA.
     - Skills and software used: scikit-learn, pandas, seaborn, matplotlib, numpy, Jupyter Notebook, Python3
     - Dataset source: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
-    - Results on the testing set: R^2 = 0.86 for Random Forest Regression, 0.77 for Support Vector Regression, and 0.70 for Linear Regression
+    - Results on the testing set: R-squared value = 0.86 for Random Forest Regression, 0.77 for Support Vector Regression, and 0.70 for Linear Regression
