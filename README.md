@@ -14,7 +14,7 @@
     - Skills and software used: PySpark, MLlib, Jupyter Notebook, Python3
     - Dataset source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
     - Results on the testing set: 
-        - AUC = 0.81
+        - AUC (Area under ROC Curve) = 0.81
 
 3) House Price Prediction
     - We use linear regression, support vector regression, and random forest regression to predict house prices in King County USA.
