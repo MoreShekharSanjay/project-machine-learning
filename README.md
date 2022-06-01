@@ -8,7 +8,7 @@
         - Accuracy = 96.5% and F-score = 95.0%
 
 2) Credit Card Fraud Detection
-    - We use PySpark and MLlib library to train a logistic regression model, to classify credit card transactions into normal or fraudulent.
+    - We train a logistic regression model, to classify credit card transactions into normal or fraudulent.
     - PySpark and MLlib have been used due to the large size of the dataset.
     - Due to the class imbalance (only ~0.172% cases are frauds), Area under ROC Curve (AUC) has been used as a metric.
     - Skills and software used: PySpark, MLlib, Jupyter Notebook, Python3
