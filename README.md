@@ -1,11 +1,11 @@
 # Machine Learning Projects
 
 1) Breast Cancer Prediction
-    - We use logistic regression to classify breast cells into malignant or benign, based on features extracted from breast mass images.
-    - Skills and software used: scikit-learn, pandas, seaborn, matplotlib, numpy, Jupyter Notebook, Python3
+    - We use Artificial Neural Network (ANN) to classify breast cells into malignant or benign, based on features extracted from breast mass images.
+    - Skills and software used: scikit-learn, TensorFlow Keras, pandas, seaborn, matplotlib, numpy, Jupyter Notebook, Python3
     - Dataset source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
     - Results on the testing set:
-        - Accuracy = 96.5% and F-score = 95.0%
+        - Accuracy = 98.8% and F-score = 97.6%
 
 2) Credit Card Fraud Detection
     - We train a logistic regression model, to classify credit card transactions into normal or fraudulent.
