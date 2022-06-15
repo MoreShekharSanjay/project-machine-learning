@@ -5,7 +5,7 @@
     - Skills and software used: scikit-learn, TensorFlow Keras, pandas, seaborn, matplotlib, numpy, Jupyter Notebook, Python3
     - Dataset source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data
     - Results on the testing set:
-        - Accuracy = 98.8% and F-score = 97.6%
+        - Accuracy = 98.2% and F-score = 97.6%
 
 2) Credit Card Fraud Prediction
     - We train a logistic regression model, to classify credit card transactions into normal or fraudulent.
